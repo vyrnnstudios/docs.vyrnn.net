@@ -1,0 +1,48 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "A documentation website for the Vyrnn Studios' projects",
+  "license": "MIT",
+  "type": "module",
+  "private": false,
+  "author": {
+    "name": "Vyrnn Studios",
+    "email": "viniciusgutierrez@vyrnn.net",
+    "url": "https://vyrnn.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vyrnnstudios/nest-template.git"
+  },
+  "engines": {
+    "node": "v20.x.x"
+  },
+  "scripts": {
+    "start:development": "next dev",
+    "start:production": "next start"
+  },
+  "dependencies": {
+    "next": "^14.0.4",
+    "next-images": "^1.8.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "styled-components": "^6.1.2"
+  },
+  "devDependencies": {
+    "@somosprte/eslint-config": "^1.8.0",
+    "@types/react": "^18.2.45",
+    "@types/react-dom": "^18.2.18",
+    "@types/styled-components": "^5.1.34",
+    "typescript": "^5.3.3"
+  },
+  "browserslist": {
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "eslintConfig": {
+    "extends": "@somosprte/eslint-config"
+  }
+}
