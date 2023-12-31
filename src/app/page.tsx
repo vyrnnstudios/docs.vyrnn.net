@@ -1,7 +1,9 @@
+import { Heading } from '@vyrnnstudios/next-template/components';
+
 export default function () {
   return (
     <div>
-      <h1>Welcome to Vyrnn Studios docs!</h1>
+      <Heading>Welcome to Vyrnn Studios docs!</Heading>
     </div>
   );
 }

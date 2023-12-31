@@ -15,7 +15,7 @@
     "baseUrl": "src",
 
     "paths": {
-      "@vyrnn/next-template/*": [ "*" ]
+      "@vyrnnstudios/next-template/*": [ "*" ]
     },
 
     "plugins": [
