@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "module": "CommonJS",
+    "target": "ES6",
 
     "moduleResolution": "node",
 
@@ -15,7 +16,7 @@
     "baseUrl": "src",
 
     "paths": {
-      "@vyrnnstudios/next-template/*": [ "*" ]
+      "@vyrnnstudios/documentation/*": [ "*" ]
     },
 
     "plugins": [
