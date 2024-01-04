@@ -1,6 +1,6 @@
 import { PropsWithChildren } from 'react';
 
-import { GlobalStyle } from '@vyrnnstudios/next-template/assets/styles';
+import { GlobalStyle } from '@vyrnnstudios/documentation/assets/styles';
 
 export default function ({ children }: PropsWithChildren) {
   return (
