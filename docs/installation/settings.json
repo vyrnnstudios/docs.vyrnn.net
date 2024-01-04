@@ -1,0 +1,12 @@
+{
+  "title": "Installation",
+  "icon": "rocket",
+  "children": [
+    {
+      "title": "Creating a new project"
+    },
+    {
+      "title": "Adding to an existing project"
+    }
+  ]
+}
